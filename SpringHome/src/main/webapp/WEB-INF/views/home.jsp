@@ -3,13 +3,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="UTF-8" http-equiv='Refresh' content='1; url=list'>
-	<title>회원등록결과</title>
+<meta charset="UTF-8">
+<title>Home</title>
 </head>
-
 <body>
 	
-	<p>등록 성공입니다!</p>
+	<h1>
+		Hello World!
+	</h1>
+	
+	<p> The Time on the server is ${serverTime} </p>
 	
 </body>
 </html>
